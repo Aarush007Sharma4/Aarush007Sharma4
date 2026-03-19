@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cybersecurity+%7C+Systems+%7C+AI;Building+with+Low-Level+Thinking;Consistency+Over+Hype" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aarush007Sharma4&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
