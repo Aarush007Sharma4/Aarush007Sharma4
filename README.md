@@ -36,14 +36,6 @@ Focused on systems, security, and applied AI.
 
 ---
 
-## Featured Projects
-> Upcoming after May 2026
-
-- Password Cracker (C++)
-- Vulnerability Scanner (Python)
-- AI Threat Detection (ML + Security)
-- Linux Process Monitor (C / Rust)
-
 ---
 
 ## GitHub Stats
