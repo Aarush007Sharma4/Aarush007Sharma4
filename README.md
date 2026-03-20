@@ -51,8 +51,7 @@ Focused on systems, security, and applied AI.
 
 ## Contact
 - Instagram: https://instagram.com/yourlink
-- Discord: User ID:- 728518548296695808
-- LinkedIn: 
+- Discord: https://discord.com/users/728518548296695808 
 
 ## Contribution Graph Animation
 ![snake gif](https://github.com/Aarush007Sharma4/Aarush007Sharma4/blob/output/github-contribution-grid-snake.svg)
