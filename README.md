@@ -33,14 +33,14 @@ Focused on systems, security, and applied AI.
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n)
 
-![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Cybersecurity-9FEF00?style=for-the-badge&logo=hackthebox)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox)
 
-![Obsidian](https://img.shields.io/badge/Obsidian-Notes-483699?style=for-the-badge&logo=obsidian)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian)
 
 ---
 
