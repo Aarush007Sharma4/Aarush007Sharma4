@@ -44,16 +44,17 @@ Focused on systems, security, and applied AI.
 
 ---
 
-## GitHub Stats
+## 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarush007Sharma4&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarush007Sharma4&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarush007Sharma4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarush007Sharma4&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## Activity Graph
-[![Aarush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarush007Sharma4&theme=tokyo-night)](https://github.com/Aarush007Sharma4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush007Sharma4&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
