@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cybersecurity+%7C+Systems+%7C+AI;Building+with+Low-Level+Thinking;Consistency+Over+Hype" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cybersecurity+%7C+Systems+%7C+AI;Consistency+Over+Hype" />
 </p>
 
 <h1 align="center">Aarush Sharma or MOM STEALER 007</h1>
@@ -56,6 +56,3 @@ Focused on systems, security, and applied AI.
 ## Contribution Graph Animation
 ![snake gif](https://github.com/Aarush007Sharma4/Aarush007Sharma4/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aarush007Sharma4&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
