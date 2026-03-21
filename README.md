@@ -58,7 +58,7 @@ Focused on systems, security, and applied AI.
 ---
 
 ## Contact
-- Instagram: https://instagram.com/yourlink
+- Instagram: https://www.instagram.com/aarushx.007/?hl=en
 - Discord: https://discord.com/users/728518548296695808 
 
 ## Contribution Graph Animation
