@@ -28,11 +28,19 @@ Focused on systems, security, and applied AI.
 ---
 
 ## Currently Learning
+
 ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n)
+
+![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python)
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-212C42?style=for-the-badge&logo=tryhackme)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Cybersecurity-9FEF00?style=for-the-badge&logo=hackthebox)
+
+![Obsidian](https://img.shields.io/badge/Obsidian-Notes-483699?style=for-the-badge&logo=obsidian)
 
 ---
 
