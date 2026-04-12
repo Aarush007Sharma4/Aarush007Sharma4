@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cybersecurity+%7C+Systems+%7C+AI;Consistency+Over+Hype" />
 </p>
 
-<h1 align="center">Aarush Sharma or MOM STEALER 007</h1>
+<h1 align="center">Aarush Sharma or 007</h1>
 
 At the moment, pursuing my B.Tech in CSE with (Cybersecurity & Forensics)  
 Focused on systems, security, and applied AI.
