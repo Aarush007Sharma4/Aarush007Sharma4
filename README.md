@@ -60,7 +60,10 @@ Focused on systems, security, and applied AI.
 
 ## Contact
 - Instagram: https://www.instagram.com/aarushx.007/?hl=en
-- Discord: https://discord.com/users/728518548296695808 
+- Discord: https://discord.com/users/728518548296695808
+- X:
+- Gmail: seemaaarush@gmail.com
+- Student Mail: aarush25csu007@ncuindia.edu
 
 ## Contribution Graph Animation
 ![snake gif](https://github.com/Aarush007Sharma4/Aarush007Sharma4/blob/output/github-contribution-grid-snake.svg)
