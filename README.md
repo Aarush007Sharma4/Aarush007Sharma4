@@ -44,27 +44,9 @@ Focused on systems, security, and applied AI.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarush007Sharma4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarush007Sharma4&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush007Sharma4&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## Contact
 - Instagram: https://www.instagram.com/aarushx.007/?hl=en
 - Discord: https://discord.com/users/728518548296695808
 - X:
 - Gmail: seemaaarush@gmail.com
 - Student Mail: aarush25csu007@ncuindia.edu
-
-## Contribution Graph Animation
-![snake gif](https://github.com/Aarush007Sharma4/Aarush007Sharma4/blob/output/github-contribution-grid-snake.svg)
-
