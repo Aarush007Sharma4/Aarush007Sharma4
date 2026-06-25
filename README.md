@@ -47,6 +47,6 @@ Focused on systems, security, and applied AI.
 ## Contact
 - Instagram: https://www.instagram.com/aarushx.007/?hl=en
 - Discord: https://discord.com/users/728518548296695808
-- X:
 - Gmail: seemaaarush@gmail.com
 - Student Mail: aarush25csu007@ncuindia.edu
+- TryHackMe: https://tryhackme.com/p/GaandJalaa
