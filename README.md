@@ -49,4 +49,4 @@ Focused on systems, security, and applied AI.
 - Discord: https://discord.com/users/728518548296695808
 - Gmail: seemaaarush@gmail.com
 - Student Mail: aarush25csu007@ncuindia.edu
-- TryHackMe: https://tryhackme.com/p/GaandJalaa
+- TryHackMe: https://tryhackme.com/p/aarushx.007
