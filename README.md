@@ -9,13 +9,6 @@ Focused on systems, security, and applied AI.
 
 ---
 
-## About Me
-- Building strong fundamentals in systems and low-level programming
-- Focused on cybersecurity, AI systems, and automation
-- Exploring Linux, networking, and security concepts
-
----
-
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
